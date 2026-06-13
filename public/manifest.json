@@ -1,0 +1,27 @@
+{
+  "name": "BillForge",
+  "short_name": "BillForge",
+  "description": "Offline invoice builder with PDF export.",
+  "start_url": "/billforge/",
+  "scope": "/billforge/",
+  "display": "standalone",
+  "background_color": "#080f08",
+  "theme_color": "#10b981",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/billforge/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/billforge/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
